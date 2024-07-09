@@ -13,7 +13,7 @@
 
 ## Comprehensive Solution Approach
 
-### GuardianAI: AI-Driven Fraud Detection Platform
+### FraudGuard: AI-Driven Fraud Detection Platform
 - **Solution Type**: AI-Driven Fraud Detection Platform
 - **Components**: Web application, backend algorithms, real-time data processing system.
 
@@ -46,7 +46,7 @@
 
 ## Implementation Plan and Banking System Integration
 
-### GuardianAI: Implementation Plan and Banking System Integration
+### FraudGuard: Implementation Plan and Banking System Integration
 
 #### Phase 1: Data Enhancement
 - **Data Audit**: Identify gaps and biases in current data.
